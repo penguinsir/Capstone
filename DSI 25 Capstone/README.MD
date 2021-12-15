@@ -38,7 +38,7 @@ Run the jupyter notebooks in this sequence:
 1. Capstone VAERS
 2. Capstone_VAERS_EDA
 3. Capstone VAERS Modelling
-4. Collect the data at https://drive.google.com/drive/folders/1FO3Ozak9MM1Aw4aNgClNr6PzcJV8zARR?usp=sharing
+4. Collect the data and presentation slides (pdf format) at https://drive.google.com/drive/folders/1FO3Ozak9MM1Aw4aNgClNr6PzcJV8zARR?usp=sharing
 
 Data cleaning
 
